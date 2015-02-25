@@ -13,3 +13,10 @@ patching file app/code/core/Mage/Cms/Helper/Wysiwyg/Images.php
 patching file app/code/core/Mage/Cms/Model/Wysiwyg/Images/Storage.php
 
 
+2015-02-25 07:42:28 UTC | SUPEE-5345 | EE_1.12.0.2 | v1 | 2d36f61cf684ed26286b6d10307fcb99dd47ff02 | Thu Feb 5 19:39:01 2015 +0200 | v1.12.0.2..HEAD
+patching file app/code/core/Mage/Admin/Model/Observer.php
+patching file app/code/core/Mage/Core/Controller/Request/Http.php
+patching file app/code/core/Mage/Oauth/controllers/Adminhtml/Oauth/AuthorizeController.php
+patching file lib/Varien/Db/Adapter/Pdo/Mysql.php
+
+
