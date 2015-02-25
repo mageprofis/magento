@@ -4,3 +4,8 @@ patching file js/prototype/validation.js
 Hunk #1 succeeded at 879 (offset 29 lines).
 
 
+2015-02-25 07:53:36 UTC | SUPEE-1533 | EE_1.13 | v1 | _ | n/a | SUPEE-1533_EE_1.13_v1.patch
+patching file app/code/core/Mage/Adminhtml/Block/Dashboard/Graph.php
+patching file app/code/core/Mage/Adminhtml/controllers/DashboardController.php
+
+
