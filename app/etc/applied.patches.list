@@ -1,0 +1,5 @@
+-e 2015-02-25 07:40:30 UTC | SUPEE-1049 | EE-1.12.0.2 | v1 | 6d06f286f461562fa6d6573349f1491f7bf89859 | Wed Feb 13 17:46:13 2013 -0800 | v1.12.0.2..HEAD
+patching file app/code/core/Mage/Payment/Model/Method/Cc.php
+patching file js/prototype/validation.js
+
+
