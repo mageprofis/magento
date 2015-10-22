@@ -100,3 +100,10 @@ patching file downloader/lib/.htaccess
 patching file errors/processor.php
 
 
+2015-10-22 06:27:41 UTC | SUPEE-6482 | CE_1.8.0.0 | v1 |  | Tue Jul 14 14:17:04 2015 +0300 |
+patching file app/code/core/Mage/Api/Model/Server/Adapter/Soap.php
+patching file app/code/core/Mage/Catalog/Model/Product/Api/V2.php
+Hunk #1 succeeded at 102 (offset -6 lines).
+Hunk #2 succeeded at 202 (offset -41 lines).
+
+
